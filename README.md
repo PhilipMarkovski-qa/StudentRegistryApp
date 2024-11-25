@@ -1,0 +1,2 @@
+# StudentRegistryApp
+Student registration system
